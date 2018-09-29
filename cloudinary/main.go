@@ -13,7 +13,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/gotsunami/go-cloudinary"
+	"github.com/kobayashi/go-cloudinary"
 	"github.com/outofpluto/goconfig/config"
 )
 
