@@ -1,0 +1,4 @@
+github.com/outofpluto/goconfig v0.0.0-20121126125551-0b3e87a7e8f2 h1:2CHtLcqKcYYyK88Flhr16t2WDr5QSbKCxT0++EFCm+k=
+github.com/outofpluto/goconfig v0.0.0-20121126125551-0b3e87a7e8f2/go.mod h1:X6OjQ2NVU6IIdN6yIP0TTWZEBwd+qT3HBdgpEkrXiX8=
+gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce h1:xcEWjVhvbDy+nHP67nPDDpbYrY+ILlfndk4bRioVHaU=
+gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce/go.mod h1:yeKp02qBN3iKW1OzL3MGk2IdtZzaj7SFntXj72NppTA=
